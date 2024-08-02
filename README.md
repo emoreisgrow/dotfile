@@ -1,0 +1,2 @@
+# dotfile
+my hyprland config
