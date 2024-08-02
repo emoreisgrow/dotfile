@@ -73,3 +73,7 @@ noto-fonts-emoji spotify-launcher lxappearance xfce4-settings sddm-git sddm-suga
 ayar yapılması gerekenleri yap 
 
 sonra config dosyalarını geçir
+
+### a little rice
+![rice screenshot](./images/rice.png)
+
