@@ -1,0 +1,536 @@
+{
+	"file_history":
+	[
+		"/home/numan/.config/cava/config",
+		"/home/numan/.config/waybar/config.jsonc",
+		"/home/numan/.config/waybar/style.css",
+		"/home/numan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/numan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/numan/.config/HyprV/waybar/conf/v4-config.jsonc",
+		"/home/numan/.config/HyprV/waybar/style/v4-style.css",
+		"/home/numan/.config/HyprV/waybar/scripts/cava-internal",
+		"/home/numan/.config/HyprV/waybar/conf/v4-config-bottom.jsonc",
+		"/home/numan/.config/swaylock/config",
+		"/home/numan/.config/HyprV/hyprv.conf",
+		"/home/numan/.config/HyprV/mako/conf/config",
+		"/home/numan/.config/HyprV/hypr/hyprland.conf",
+		"/home/numan/.config/hypr-back/hyprland.conf",
+		"/sys/class/leds/phy0-led/brightness",
+		"/home/numan/.spicetify/Extensions/keyboardShortcut.js",
+		"/etc/libvirt/qemu.conf",
+		"/home/numan/IOMMU.sh",
+		"/boot/grub/themes/Arch/theme.txt",
+		"/run/media/numan/469633D79633C669/Users/numan/AppData/Roaming/spicetify/config-xpui.ini",
+		"/home/numan/.config/spicetify/config-xpui.ini"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1722683914,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 507.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/numan/.config/waybar/config.jsonc",
+				"/home/numan/.config/waybar/style.css",
+				"/home/numan/.config/cava/config",
+				"/home/numan/.config/HyprV/waybar/conf/v4-config.jsonc",
+				"/home/numan/.config/HyprV/waybar/style/v4-style.css",
+				"/home/numan/.config/HyprV/waybar/scripts/cava-internal",
+				"/home/numan/.config/HyprV/waybar/conf/v4-config-bottom.jsonc",
+				"/home/numan/.config/swaylock/config",
+				"/home/numan/.config/HyprV/hyprv.conf",
+				"/home/numan/.config/HyprV/mako/conf/config",
+				"/home/numan/.config/HyprV/hypr/hyprland.conf",
+				"/home/numan/.config/hypr-back/hyprland.conf",
+				"/sys/class/leds/phy0-led/brightness",
+				"/home/numan/.spicetify/Extensions/keyboardShortcut.js",
+				"/etc/libvirt/qemu.conf",
+				"/home/numan/IOMMU.sh",
+				"/boot/grub/themes/Arch/theme.txt",
+				"/run/media/numan/469633D79633C669/Users/numan/AppData/Roaming/spicetify/config-xpui.ini"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cava",
+					"method",
+					"predefined",
+					"method",
+					"bars"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/numan/.config/waybar/style.css",
+					"settings":
+					{
+						"buffer_size": 1709,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOAAAAAAAAAA4AAAAAAAAAABAAAAYw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							6,
+							"left_delete",
+							null,
+							"BgAAAEMCAAAAAAAAQwIAAAAAAAABAAAAMUICAAAAAAAAQgIAAAAAAAABAAAAYUECAAAAAAAAQQIAAAAAAAABAAAAM0ACAAAAAAAAQAIAAAAAAAABAAAAZT8CAAAAAAAAPwIAAAAAAAABAAAANj4CAAAAAAAAPgIAAAAAAAABAAAAYQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAARAIAAAAAAABEAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"",
+							null,
+							"AQAAAD4CAAAAAAAARAIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgIAAAAAAAA+AgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/numan/.config/waybar/config.jsonc",
+					"settings":
+					{
+						"buffer_size": 4358,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "//"
+							},
+							"AgAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF0BAAAAAAAAXQEAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							9,
+							2,
+							"left_delete",
+							null,
+							"AgAAAF4BAAAAAAAAXgEAAAAAAAABAAAAL10BAAAAAAAAXQEAAAAAAAABAAAALw",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF8BAAAAAAAAXwEAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/numan/.config/cava/config",
+				"/home/numan/.config/waybar/config.jsonc",
+				"/home/numan/.config/waybar/style.css",
+				"/home/numan/.config/HyprV/waybar/conf/v4-config.jsonc",
+				"/home/numan/.config/HyprV/waybar/style/v4-style.css",
+				"/home/numan/.config/HyprV/waybar/scripts/cava-internal",
+				"/home/numan/.config/HyprV/waybar/conf/v4-config-bottom.jsonc",
+				"/home/numan/.config/swaylock/config",
+				"/home/numan/.config/HyprV/hyprv.conf",
+				"/home/numan/.config/HyprV/mako/conf/config",
+				"/home/numan/.config/HyprV/hypr/hyprland.conf",
+				"/home/numan/.config/hypr-back/hyprland.conf",
+				"/sys/class/leds/phy0-led/brightness",
+				"/home/numan/.spicetify/Extensions/keyboardShortcut.js",
+				"/etc/libvirt/qemu.conf",
+				"/home/numan/IOMMU.sh",
+				"/boot/grub/themes/Arch/theme.txt",
+				"/run/media/numan/469633D79633C669/Users/numan/AppData/Roaming/spicetify/config-xpui.ini"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cava",
+					"method",
+					"predefined",
+					"method",
+					"bars"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/numan/.config/waybar/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1709,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										580,
+										580
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 230.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/numan/.config/waybar/config.jsonc",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4358,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										349,
+										349
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,941,991,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
